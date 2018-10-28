@@ -1,22 +1,22 @@
-# 📊 Week07 Bootcamp2018c Project: Complex API 2
+# Movie News Complex API
+User inputs a movie title, an API returned an array of movies with that keyword, then made each movie click-able to show any current news about that movie.
 
-### Goal: Use data returned from one api to make a request to another api and display the data returned
+**Link to project:** https://eager-northcutt-e064cd.netlify.com
 
-### How to submit your code for review:
+![alt tag](screen.png)
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## How It's Made:
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+**Tech used:** HTML5, CSS3, JavaScript, themoviedb.org's API & newsapi.org's API.
+Styling for this project was done using CSS Grid & Flexbox. Written in vanilla Javascript using the fetch method to access API. Retrieved movie keyword from user, which returned all movies with the keyword in their title, then used the movie title from themoviedb.org's API to call news articles with that keyword with newsapi.org's API.
+
+## Lessons Learned:
+Learned to come up with different ways of using an API's property to call another API and access its property.
+
+## Examples:
+
+**Weather API** https://github.com/ericamendez/weather-api-bootcamp2018c-week07
+
+**Simple NASA API** https://github.com/ericamendez/simple-nasa-api-bootcamp2018c-week07
+
+**Complex NASA Weather API** https://github.com/ericamendez/complex-nasa-bootcamp2018c-week07
