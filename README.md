@@ -1,22 +1,9 @@
-# 📊 Week07 Bootcamp2018c Project: Complex API 2
+BikeDB Project
 
-### Goal: Use data returned from one api to make a request to another api and display the data returned
+https://quirky-colden-39a33a.netlify.com/
 
-### How to submit your code for review:
+How It's Made: Tech used: HTML, CSS, es6 JS, OOP
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+Optimizations (in the future): UI needs to be fixed
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+
